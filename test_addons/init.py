@@ -1,1 +1,1 @@
-default_app_config = 'test_addons.apps.AddonsConfig'
+default_app_config = 'test_addons.apps.TestAddonsConfig'
