@@ -175,3 +175,4 @@ cython_debug/
 
 #Pycharm IDE
 .idea
+/customize-example/
