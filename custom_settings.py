@@ -1,3 +1,3 @@
 from weblate.settings_docker import *
 
-INSTALLED_APPS += ['test_addons']
+WEBLATE_ADDONS += ['test_addons']
