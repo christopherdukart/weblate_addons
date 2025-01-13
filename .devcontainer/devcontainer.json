@@ -1,0 +1,6 @@
+{
+  "name": "weblate_addons Dev Container",
+  "image": "weblate/weblate:latest",
+  "shutdownAction": "stopCompose",
+  "remoteUser": "root"
+}
